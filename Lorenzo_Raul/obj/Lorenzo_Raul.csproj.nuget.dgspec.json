@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\torres21916\\Desktop\\Entornos\\pr10\\Lorenzo_Raul\\Lorenzo_Raul.csproj": {}
+    "C:\\Users\\gonzalez21993\\Desktop\\Entornos\\pr10\\Lorenzo_Raul\\Lorenzo_Raul.csproj": {}
   },
   "projects": {
-    "C:\\Users\\torres21916\\Desktop\\Entornos\\pr10\\Lorenzo_Raul\\Lorenzo_Raul.csproj": {
+    "C:\\Users\\gonzalez21993\\Desktop\\Entornos\\pr10\\Lorenzo_Raul\\Lorenzo_Raul.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\torres21916\\Desktop\\Entornos\\pr10\\Lorenzo_Raul\\Lorenzo_Raul.csproj",
+        "projectUniqueName": "C:\\Users\\gonzalez21993\\Desktop\\Entornos\\pr10\\Lorenzo_Raul\\Lorenzo_Raul.csproj",
         "projectName": "Lorenzo_Raul",
-        "projectPath": "C:\\Users\\torres21916\\Desktop\\Entornos\\pr10\\Lorenzo_Raul\\Lorenzo_Raul.csproj",
-        "packagesPath": "C:\\Users\\torres21916\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\torres21916\\Desktop\\Entornos\\pr10\\Lorenzo_Raul\\obj\\",
+        "projectPath": "C:\\Users\\gonzalez21993\\Desktop\\Entornos\\pr10\\Lorenzo_Raul\\Lorenzo_Raul.csproj",
+        "packagesPath": "C:\\Users\\gonzalez21993\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gonzalez21993\\Desktop\\Entornos\\pr10\\Lorenzo_Raul\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\torres21916\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gonzalez21993\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
