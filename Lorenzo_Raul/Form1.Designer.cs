@@ -110,7 +110,7 @@ namespace Lorenzo_Raul
             // Raúl
             // 
             this.Raúl.FormattingEnabled = true;
-            this.Raúl.Location = new System.Drawing.Point(34, 177);
+            this.Raúl.Location = new System.Drawing.Point(29, 166);
             this.Raúl.Name = "Raúl";
             this.Raúl.Size = new System.Drawing.Size(962, 256);
             this.Raúl.TabIndex = 8;
